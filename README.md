@@ -2,7 +2,7 @@
 Appsheet is a platform that provides a zero-code development environment to create mobile,tablet and web application by using cloud-based spreadsheet and database platform data sources.
 
 ## 1. Copying Application Template
-1. The template of the application can be found in ([this](https://www.appsheet.com/portfolio/230623858)) Appsheet portfolio.
+1. The template of the application can be found in [this](https://www.appsheet.com/portfolio/230623858) Appsheet portfolio.
 2. Click on the template called "Event Check-in", then "Copy and Customzie".
 3. The name of the app can be changed or it can be left as default. Then "Copy App".
 
